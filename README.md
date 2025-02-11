@@ -1,9 +1,14 @@
-# librus-api
 
-[![npm](https://img.shields.io/npm/v/librus-api.svg?style=flat)](https://www.npmjs.com/package/librus-api)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](http://opensource.org/licenses/MIT)
-
-Otwartoźródłowy klient HTTP parsujący odpowiedzi HTML serwera dziennika elektronicznego Librus / Synergia. Paczka nie jest oficjalnym produktem Synergia.  
+<h1 align="center">Librus API</h1>
+<p align="center">
+<img src="https://img.shields.io/npm/v/librus-api?color=%23347499">
+<img src="https://img.shields.io/github/license/Mati365/librus-api?color=%23347499">
+<img src="https://img.shields.io/github/commit-activity/t/Mati365/librus-api?color=%23347499">
+<img src="https://img.shields.io/github/contributors-anon/Mati365/librus-api?color=%23347499">
+<img src="https://img.shields.io/github/last-commit/Mati365/librus-api?color=%23347499">
+<p align="center">Otwartoźródłowy klient HTTP parsujący odpowiedzi HTML serwera dziennika elektronicznego Librus / Synergia. Paczka nie jest oficjalnym produktem Synergia.</p>
+</p>
+ 
 
 ## Instalacja
 
